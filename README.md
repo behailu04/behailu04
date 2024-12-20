@@ -1,7 +1,5 @@
 - 👋 Hi, I’m Behailu Dekeba
 - 👀 I’m interested in AI | ML | AI powered search | Quantitative Finance 
-- 🌱 I’m currently learning Machine Learning for Trading
-- 💞️ I’m looking to collaborate on Reinforcement Learning
 - 📫 How to reach me behailu04@gmail.com
 
 <!---
